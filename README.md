@@ -8,6 +8,7 @@ This is a Todo app built with Next.js, bootstrapped with create-next-app.
 * Edit Tasks: Click the edit icon to modify an existing task.
 * Complete Tasks: Click the check icon to mark a task as completed.
 * Delete Tasks: Click the trash icon to remove a task.
+* Sort Tasks: Sort the tasks by the completion status.
 * Persistent Storage: Tasks are stored in localStorage to persist across page reloads.
 
 ## Getting Started
@@ -50,4 +51,4 @@ This project uses next/font to automatically optimize and load Inter, a custom G
 
 ## Deployed on Vercel
 
-dw
+To Do List App <https://to-do-app-loo-kai.vercel.app/>
